@@ -3,7 +3,7 @@ title:  " "
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a Graduate Candidate in Department of Chemical and Biomolecular Engineering at Univeristy of Houston. 
+I am a Graduate Candidate in the Department of Chemical and Biomolecular Engineering at Univeristy of Houston. 
 
 Before joining University of Houston, I worked at Center of Soft and Living Matters in South Korea with Professor Steve Granick. 
 
